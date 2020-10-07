@@ -5,11 +5,9 @@ Home: https://github.com/valerytschopp/python-radosgw-admin
 
 Package license: GPL-3.0-or-later
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/radosgw-admin-feedstock/blob/master/LICENSE.txt)
 
 Summary: Ceph RADOS Gateway (rgw) admin operations REST API
-
-
 
 Current build status
 ====================
